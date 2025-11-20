@@ -53,7 +53,7 @@ http://localhost:8005/v3/api-docs
 
 ### Clone the project
 ```commandline
-git clone https://github.com/your/repo.git
+git clone https://github.com/sujaybn/JwtDemo.git
 cd JwtDemo
 ```
 
