@@ -61,7 +61,7 @@ cd JwtDemo
 Create a DB:
 ```commandline
 CREATE DATABASE jwt_demo;
-```
+``` 
 
 Configure application.properties:
 ```commandline
@@ -173,6 +173,22 @@ src/main/java/com/jwt/
 ├── repository/        # DB repositories
 ├── service/           # Business logic
 ```
+
+## Testing evidence from local
+
+#### Register user
+![User registration](src/main/resources/test-local-evidences/postman-register.png)
+#### Login user
+![User login](src/main/resources/test-local-evidences/postman-login.png)
+#### Get current user
+![Current user](src/main/resources/test-local-evidences/postman-whoami.png)
+#### Get all users
+![Get all users](src/main/resources/test-local-evidences/postman-getallusers.png)
+#### Swagger documentation local
+![Swagger local](src/main/resources/test-local-evidences/swagger-local.png)
+
+
+
 
 ## Summary
 
